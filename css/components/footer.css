@@ -1,0 +1,11 @@
+.footer {
+    margin-top: 100px;
+    padding: 100px;
+    background-color:#2c2b2b ;
+    background-size: cover;
+  }
+
+.footer h3 {
+    color: #1edd88;
+    text-align: center;
+  }
