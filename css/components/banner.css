@@ -2,9 +2,10 @@
     background-image: url(../../images/clanpartybackground.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-y: -1100px;
+    background-position-y: -250px;
     padding: 200px;
     position: relative;
+    padding-bottom: 350px;
   }
   
   .banner h1 {
